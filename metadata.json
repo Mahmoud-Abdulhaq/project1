@@ -1,0 +1,6 @@
+{
+  "name": "Project 1",
+  "description": "A fresh About Me personal showcase with 5 customizable info spots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
